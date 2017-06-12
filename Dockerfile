@@ -1,4 +1,4 @@
-FROM harrycao/hadoop-docker:latest
+FROM harrycao/hadoop:latest
 
 MAINTAINER caohui <iamcaohui@gmail.com>
 
